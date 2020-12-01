@@ -7,4 +7,5 @@ Python run PC-DMIS is a simple script that demonstrates the use of automation to
 * (pip install pywin32)
 
 ## Reference
-[PC-DMIS Automation reference] (https://docs.hexagonmi.com/pcdmis/2020.2/en/helpcenter/mergedProjects/automationobjects/webframe.html)
+
+[PC-DMIS Automation reference](https://docs.hexagonmi.com/pcdmis/2020.2/en/helpcenter/mergedProjects/automationobjects/webframe.html)
