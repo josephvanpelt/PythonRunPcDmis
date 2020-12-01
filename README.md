@@ -1,5 +1,5 @@
 # PythonRunPcDmis
-Python run PC-DMIS is a simple script that demonstrates the use of automation to drive PC-DMIS from a python script.
+PythonRunPcDmis is a simple script that demonstrates the use of automation to drive PC-DMIS from a python script.
 
 ## Requirements
 * Installation of PC-DMIS
